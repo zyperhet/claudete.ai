@@ -1,0 +1,10 @@
+{
+    "name": "netlify-functions",
+    "version": "1.0.0",
+    "description": "Netlify Functions for TalentMatch AI",
+    "main": "send-email.js",
+    "dependencies": {
+      "@sendgrid/mail": "^7.7.0"
+    }
+  }
+  
